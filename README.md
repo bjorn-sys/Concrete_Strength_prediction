@@ -6,13 +6,11 @@ The model predicts the compressive strength (MPa) of concrete based on ingredien
 ---
 
 ***🧱 Concrete Strength Prediction using PyTorch + Streamlit***
-
 ---
 This project is a machine learning web application built with Streamlit that predicts the compressive strength of concrete (in MPa) based on its mix composition.
 It uses a trained PyTorch regression model with ReLU activation to estimate strength given input features like cement, water, fly ash, aggregates, and age.
 
 ***📘 Table of Contents***
-
 ---
 Overview
 
