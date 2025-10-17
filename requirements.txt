@@ -1,15 +1,5 @@
-# Streamlit web framework
 streamlit==1.38.0
-
-# Deep Learning Framework
-torch==2.4.0
-torchvision==0.19.0
-torchaudio==2.4.0
-
-# Data Analysis
-pandas==2.2.3
-numpy==1.26.4
-scikit-learn==1.5.2
-
-# Optional - for better deployment stability
-typing-extensions
+torch==2.5.1
+pandas
+numpy
+scikit-learn
