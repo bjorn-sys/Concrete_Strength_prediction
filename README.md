@@ -136,3 +136,5 @@ The model uses deep learning (PyTorch) to learn nonlinear relationships between 
 ✅ Trained PyTorch regression model integrated into the app
 ✅ Lightweight and cloud-deployable
 
+URL_link : https://concretestrengthprediction-6xbpvzizf6mr8lmt94agic.streamlit.app/
+
