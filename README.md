@@ -1,3 +1,5 @@
+![Concrete Image](screenshot.png)
+
 # Concrete_Strength_prediction
 
 ---
@@ -37,7 +39,6 @@ Future Improvements
 Author
 
 ***🧩 Overview***
-
 ---
 
 Concrete strength is a critical property that determines the quality and durability of structures.
@@ -46,7 +47,6 @@ Instead of waiting days for lab test results, this app provides instant predicti
 The model learns the complex nonlinear relationships between the concrete’s ingredients and its resulting compressive strength.
 
 ***🧠 Model Architecture***
-
 ---
 The regression model is a deep feedforward neural network (MLP) with the following architecture:
 
@@ -61,7 +61,6 @@ Optimizer: Adam
 Framework: PyTorch
 
 ***⚙️ Tech Stack***
-
 ---
 Category	Tools
 Language	Python
@@ -72,7 +71,6 @@ Preprocessing	StandardScaler (sklearn)
 Visualization	Streamlit UI elements
 
 ***🌟 App Features***
-
 ---
 
 ✅ Interactive Streamlit interface
@@ -82,7 +80,6 @@ Visualization	Streamlit UI elements
 ✅ Easy deployment on Streamlit Cloud
 
 ***💻 Usage***
-
 ---
 Launch the app.
 
@@ -93,7 +90,6 @@ Click “🔮 Predict Strength”.
 View the predicted compressive strength in MPa.
 
 ***📊 Input Features***
-
 ---
 Feature	Description	Example
 Cement	Cement content (kg/m³)	300
@@ -106,7 +102,6 @@ Fine Aggregate	Sand (kg/m³)	770
 Age	Concrete age (days)	28
 
 ***🧠 Model Details***
-
 ---
 Model: DeeperConcreteMLP
 
@@ -121,14 +116,12 @@ Loss Function: MSELoss
 File: concrete_strength_model.pth
 
 ***🏗️ Concrete Strength Prediction App***
-
 ---
 This Streamlit web app predicts the compressive strength of concrete based on its ingredient proportions using a PyTorch regression model.
 
 The model was trained on a dataset containing various concrete mix components and their corresponding strength, helping civil engineers and researchers estimate concrete quality before real-world testing.
 
 ***📋 Project Overview***
-
 ---
 Concrete strength depends on several key factors like the amount of cement, water, coarse aggregate, fine aggregate, fly ash, and age of the concrete.
 This app allows users to input these parameters and instantly get a predicted compressive strength (MPa) value.
@@ -136,10 +129,10 @@ This app allows users to input these parameters and instantly get a predicted co
 The model uses deep learning (PyTorch) to learn nonlinear relationships between the mix components and the resulting strength.
 
 ***🚀 Features***
-
 ---
 ✅ User-friendly Streamlit interface
 ✅ Real-time strength prediction based on user input
 ✅ Data visualization for model insights
 ✅ Trained PyTorch regression model integrated into the app
 ✅ Lightweight and cloud-deployable
+
