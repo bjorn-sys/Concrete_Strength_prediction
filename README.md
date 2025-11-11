@@ -136,7 +136,7 @@ The model uses deep learning (PyTorch) to learn nonlinear relationships between 
 ✅ Trained PyTorch regression model integrated into the app
 ✅ Lightweight and cloud-deployable
 
-AWS Cloud Link : http://98.80.192.68:8501/
+
 
 
 
